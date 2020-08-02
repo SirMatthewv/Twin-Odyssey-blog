@@ -18,6 +18,12 @@ font-weight: bold;
 margin: 0;
 padding: 0.5em;
 }
+
+#cabecera #logo
+{
+    width: 60px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
 padding: 0 0 0 1em;
