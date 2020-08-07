@@ -9,3 +9,4 @@ Blog sobre nuestro primer vídeo juego que puedes descargar totalmente gratias [
 
 **Si quieres saber mas del proyecto, ver su trailer y pequeños gameplays lo puedes ver** [**aqui**](https://www.youtube.com/channel/UCIjFSoJnGNz-s4J1n38EnWg)
 * Creado por hevel studios
+* Disponible en windows, linux y mac
